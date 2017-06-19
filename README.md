@@ -4,6 +4,8 @@ Meta layer with basic qt media plyback integration for raspberrypi platform.
 
 # howto
 
+## building
+
 git clone git://git.yoctoproject.org/poky -b morty
 
 cd poky
@@ -25,3 +27,7 @@ edit conf/bblayers.conf and conf/local.conf
 bitbake demo-image
 
 have fun...
+
+## running
+
+/usr/bin/qt5/qml /usr/share/examples/example.qml -platform eglfs
