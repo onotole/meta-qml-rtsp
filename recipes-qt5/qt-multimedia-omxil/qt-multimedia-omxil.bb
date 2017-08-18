@@ -4,10 +4,10 @@ LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda2f7b4f302"
 
 SRC_URI = "git://github.com/onotole/qt-multimedia-omxil.git"
-SRCREV = "af3beab762224f97b127622df485a4d674545952"
+SRCREV = "d4a44a6df0d51e2771a1e43434a367084150cea4"
 
 #SRC_URI = "git:///home/saddam/projects/qt-multimedia-omxil;protocol=file"
-#SRCREV = "af3beab762224f97b127622df485a4d674545952"
+#SRCREV = "2c4882678ec38d4407bdeb7590af8ae32f87b884"
 
 S = "${WORKDIR}/git"
 

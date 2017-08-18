@@ -17,4 +17,5 @@ IMAGE_INSTALL += "\
     qtmultimedia \
     qtmultimedia-plugins \
     qtmultimedia-qmlplugins \
+    nodejs \
 "
